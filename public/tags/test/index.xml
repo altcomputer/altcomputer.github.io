@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test on Alt Computer</title>
+    <link>//localhost:1313/tags/test/</link>
+    <description>Recent content in Test on Alt Computer</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 May 2026 10:40:37 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>//localhost:1313/posts/hello-world/</link>
+      <pubDate>Fri, 15 May 2026 10:40:37 +0200</pubDate>
+      <guid>//localhost:1313/posts/hello-world/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is a test page that will not be up for a long time. The intention is just&#xA;to ensure the website works and the post renders well.&lt;/p&gt;&#xA;&lt;h3 id=&#34;how-to-know&#34;&gt;How to know?&lt;/h3&gt;&#xA;&lt;p&gt;It&amp;rsquo;s simple and easy. Just deploy the website and if everything works fine, means&#xA;everything is working as expected. Otherwise, it&amp;rsquo;s not :-D&lt;/p&gt;&#xA;&lt;p&gt;Another approach is to get the source code of the page in browser and go through&#xA;it to see whether everything is in place. Actually it&amp;rsquo;s a matter of trial and&#xA;error at the end of the day.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
