@@ -32,6 +32,25 @@ To add a new post use `hugo` command like below,
 $ hugo new post/[name-of-the-post.md]
 ```
 
+## Add a new page
+
+To add a new page:
+
+```bash
+$ hugo new [about.md]
+```
+
+Then edit:
+
+```bash
+$ vim content/about.md
+```
+
+## Add a new menu
+
+Menu should be added manually in `hugo.toml`, under `[languages.en.menu]`
+section.
+
 ## Contact
 * kasra@madadipouya.com
 
