@@ -1,6 +1,6 @@
 +++
 date = '2026-05-18T21:44:55+02:00'
-draft = true
+draft = false
 title = 'Temporary Ftp Server for Old Devices'
 +++
 
