@@ -1,7 +1,16 @@
 +++
 date = '2026-05-18T21:44:55+02:00'
 draft = false
-title = 'Temporary Ftp Server for Old Devices'
+title = 'Temporary FTP Server for Old Devices'
+author = "Kasra Madadipouya"
+authorTwitter = "kasra_mp" #do not include @
+cover = ""
+tags = ["ftp server", "python", "pyftpdlib", "retro computers"]
+keywords = ["ftp server", "pyftpdlib", "python", "retro computers"]
+description = "Set up a temporary FTP server for retro computers"
+showFullContent = false
+readingTime = false
+hideComments = false
 +++
 
 If you're dealing with old hardware, it's not uncommon to either have no USB port at all,
